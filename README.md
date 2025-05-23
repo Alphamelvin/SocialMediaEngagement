@@ -8,7 +8,7 @@ This phase was instrumental in uncovering foundational insights and informing su
 
 ### 🧮 1. Facebook Social Media Engagement.
 
-![Distribution of Target Variable](Facebook.png)
+![Distribution of Target Variable](Facbook.png)
 
 The histogram above provides a comprehensive view of how the target variable is distributed across the dataset. This helps in understanding class imbalance, which is critical for designing effective predictive models. As seen, there is a significant skew toward one class, indicating the need for appropriate resampling techniques or performance metrics during modeling.
 
