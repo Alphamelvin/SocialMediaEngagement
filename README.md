@@ -8,7 +8,7 @@ What these tools truly illuminate is the exact art of social media strategy. We 
 
 ### 🧮 1. Facebook Social Media Engagement.
 
-![Distribution of Target Variable](Facebook.png)
+![Distribution of Target Variable](facebook.png)
 
 This dashboard focuses on Facebook engagement, displaying "Total Engagements" at 214,789, with "Total Likes" at 48,241, "Shares" at 1,338, and "Comments" at 19,032.
 "Photo" content is the dominant engagement driver on Facebook, accounting for 87.35% of all interactions, significantly outperforming other content types.
