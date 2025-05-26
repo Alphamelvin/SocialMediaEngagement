@@ -32,7 +32,7 @@ The correlation heatmap visually presents the strength and direction of relation
 
 ### 🧱 4. Twitter Social Media Engagement.
 
-![Categorical Feature Breakdown](twitter.png)
+![Categorical Feature Breakdown](Twitter.png)
 
 This bar chart dissects how different categorical groups (such as regions, user types, or product classes) compare across a selected numerical metric. It helps identify dominant contributors or underrepresented groups, guiding potential feature engineering efforts.
 
