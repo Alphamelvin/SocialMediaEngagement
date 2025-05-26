@@ -1,8 +1,8 @@
 ## 📊 Descriptive Analysis Overview
 
-These dashboards are a powerful lens, giving a clear and concise view into our social media performance. Designed with a sleek, dark aesthetic, they images consistently offer interactive filters, allowing us to critically examine our data by year, month, or even specific days. Each screen provides critical insights tailored to its respective platform: for LinkedIn, the focus is squarely on "Impressions," showing us how many eyes are actually seeing our content. However, for Facebook, Instagram, and Twitter, the emphasis shifts to genuine "Engagements"—that's the real activity of likes, shares, and comments—with Instagram uniquely highlighting "Saves" as a measure of content value.
+****These dashboards are a powerful lens, giving a clear and concise view into our social media performance. Designed with a sleek, dark aesthetic, they images consistently offer interactive filters, allowing us to critically examine our data by year, month, or even specific days. Each screen provides critical insights tailored to its respective platform: for LinkedIn, the focus is squarely on "Impressions," showing us how many eyes are actually seeing our content. However, for Facebook, Instagram, and Twitter, the emphasis shifts to genuine "Engagements"—that's the real activity of likes, shares, and comments—with Instagram uniquely highlighting "Saves" as a measure of content value.
 
-What these tools truly illuminate is the exact art of social media strategy. We quickly discern that the content types which perform exceptionally well on one platform might not achieve the same traction on another. For instance, sharing direct "Links" proves highly effective for generating impressions on LinkedIn and driving engagement on Twitter, while on Facebook and Instagram, it is the captivating "Photos" that consistently perform the magic, drawing in significant interaction. Furthermore, these dashboards clearly identify our top-performing marketers and pinpoint the optimal times of day to post, ensuring our content lands when our audience is most active. Ultimately, they equip us with actionable intelligence, guiding our efforts to connect more deeply and strategically with our audience across every digital channel.
+What these tools truly illuminate is the exact art of social media strategy. We quickly discern that the content types which perform exceptionally well on one platform might not achieve the same traction on another. For instance, sharing direct "Links" proves highly effective for generating impressions on LinkedIn and driving engagement on Twitter, while on Facebook and Instagram, it is the captivating "Photos" that consistently perform the magic, drawing in significant interaction. Furthermore, these dashboards clearly identify our top-performing marketers and pinpoint the optimal times of day to post, ensuring our content lands when our audience is most active. Ultimately, they equip us with actionable intelligence, guiding our efforts to connect more deeply and strategically with our audience across every digital channel.****
 
 ---
 
@@ -10,10 +10,10 @@ What these tools truly illuminate is the exact art of social media strategy. We 
 
 ![Distribution of Target Variable](facebook.png)
 
-This dashboard focuses on Facebook engagement, displaying "Total Engagements" at 214,789, with "Total Likes" at 48,241, "Shares" at 1,338, and "Comments" at 19,032.
+****This dashboard focuses on Facebook engagement, displaying "Total Engagements" at 214,789, with "Total Likes" at 48,241, "Shares" at 1,338, and "Comments" at 19,032.
 "Photo" content is the dominant engagement driver on Facebook, accounting for 87.35% of all interactions, significantly outperforming other content types.
 "Sophia Amaka" and "Damian Chuks..." are the leading marketers for generating likes, and prime engagement hours are identified as 5 PM, 10 AM, and 2 PM.
-Historical trends show fluctuating "Likes by Year," providing a long-term view of audience engagement evolution on the Facebook platform.
+Historical trends show fluctuating "Likes by Year," providing a long-term view of audience engagement evolution on the Facebook platform.********
 ---
 
 ### 📈 2. Instagram Social Media Engagement.
